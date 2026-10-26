@@ -1,0 +1,6 @@
+voltage,current,temperature,tamper,label
+5.0,0.6,35.0,false,NORMAL
+4.9,0.8,38.0,false,NORMAL
+5.2,0.7,41.0,false,NORMAL
+6.2,2.8,78.0,true,SIMULATED_ALERT
+4.1,0.5,36.0,false,SIMULATED_ALERT
